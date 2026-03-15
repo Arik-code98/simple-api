@@ -44,8 +44,8 @@ This project is useful for learning the basics of **FastAPI**, **Pydantic reques
 ### 1. Clone the repository
 
 ```
-git clone <your-repo-url>
-cd <repo-folder>
+git clone https://github.com/Arik-code98/simple-api
+cd simple-api
 ```
 
 ### 2. Create a virtual environment (recommended)
